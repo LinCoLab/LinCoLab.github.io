@@ -1,5 +1,5 @@
 ---
-title: "lincolab.github.io"
+title: "The Linguistics Computation Lab @ The University of Kentucky"
 ---
 
 This is a Quarto website.

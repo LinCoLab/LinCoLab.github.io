@@ -11,8 +11,12 @@ website:
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: superhero
+    mainfont: "Atkinson Hyperlegible" 
+    css: 
+      - styles.css
+      - www/css/comfortaa.css
+      - www/css/atkinson-hyperlegible.css
     toc: true
 
 editor: visual
